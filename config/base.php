@@ -1,5 +1,5 @@
 <?php return array (
-  'site_name' => 'OneIndex',
+  'site_name' => 'Free',
   'password' => '25245769',
   'style' => 'material',
   'onedrive_root' => '',
