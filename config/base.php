@@ -2,7 +2,7 @@
   'site_name' => 'Free',
   'password' => '25245769',
   'style' => 'material',
-  'onedrive_root' => '',
+  'onedrive_root' => 'oneindex',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
   'cache_refresh_time' => 60,
