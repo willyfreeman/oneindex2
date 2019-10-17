@@ -5,7 +5,7 @@
   'onedrive_root' => '',
   'cache_type' => 'secache',
   'cache_expire_time' => 3600,
-  'cache_refresh_time' => 600,
+  'cache_refresh_time' => 60,
   'root_path' => '?',
   'show' => 
   array (
