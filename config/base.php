@@ -1,7 +1,7 @@
 <?php return array (
   'site_name' => 'Free',
   'password' => '25245769',
-  'style' => 'material',
+  'style' => 'nexmoe',
   'onedrive_root' => 'oneindex',
   'cache_type' => 'secache',
   'cache_expire_time' => 60,
